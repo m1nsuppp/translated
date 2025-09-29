@@ -193,8 +193,6 @@ console.log({
 
 ---
 
-한국어 번역본을 작성했어. 문서 위치: `image-generation.ko.md`
-
 ### 에러 처리
 
 `generateImage`가 유효한 이미지를 생성하지 못하면 [`AI_NoImageGeneratedError`](/docs/reference/ai-sdk-errors/ai-no-image-generated-error)를 던져.
